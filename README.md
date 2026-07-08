@@ -7,8 +7,8 @@ Un LLM, esposto al linguaggio delle rune del mondo narrativo della saga di Shado
 1. Analizzare le rune originali come base di riferimento sistematica;
 2.  Verificare se il LLM sia in grado di generare nuove rune coerenti;
 3.  Osservare il risultato in base al tipo di esempi forniti nel prompt (zero-shot/few-shot);
-4.  Confrontare le risposte del LLM e le risposte umane;
-5.   Riflettere sulla capacità del LLM di generalizzare regole di un "linguaggio impossibile" rispetto al semplice riconoscimento di pattern.
+4.  Valutare i risultati in maniera qualitativa e confrontare le risposte del LLM con le risposte umane;
+6.   Riflettere sulla capacità del LLM di generalizzare regole di un "linguaggio impossibile" rispetto al semplice riconoscimento di pattern.
 
 *Metodologia di ricerca* 
 1. Raccolta dati: scraping della pagina web di wikifandom dedicata alle rune di shadowhunters, tramite script Python;
