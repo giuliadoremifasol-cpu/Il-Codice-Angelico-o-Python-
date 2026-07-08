@@ -1,6 +1,6 @@
 # Il Codice: Angelico o Python? #
 
-*Domanda di ricerca*
+*Domanda di ricerca*:
 Un LLM, esposto al linguaggio delle rune del mondo narrativo della saga di Shadowhunters, riesce a generalizzare le regole strutturali che legano nome, effetto e contesto narrativo abbastanza da produrre nuove rune sistematicamente coerenti, o si limita a un'imitazione stilistica superficiale degli esempi esistenti?
 
 *Obiettivi*
